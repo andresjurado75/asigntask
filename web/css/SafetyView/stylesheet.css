@@ -1,0 +1,44 @@
+#nav {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#div-div {
+    /*border: red 2px solid;*/
+    margin: 5px;
+}
+
+#div-a {
+    /*border: red 2px solid;*/
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#icon {
+    font-size: 35px;
+    /*margin-top: 3px;*/
+}
+
+a {
+    margin-left: 5px;
+    font-size: medium;
+}
+
+#div-ol {
+    margin: 10px;
+}
+
+#div-panel {
+    margin: 10px;
+}
+
+#span {
+    border-radius: 2px;
+}
+
+#div-form {
+    /*border: red 2px solid;*/
+    margin: 10px;
+}

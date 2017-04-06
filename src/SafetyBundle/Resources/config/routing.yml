@@ -1,0 +1,3 @@
+safety_homepage:
+    path:     /register
+    defaults: { _controller: SafetyBundle:Default:register }

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>{% block title %}Task Company{% endblock %}</title>
+    {#<link type="text/css" rel="stylesheet" href="{{ asset('libsMaterialize/css/materialize.min.css"') }}"#}
+    {#media="screen,projection"/>#}
+    <link rel="stylesheet" type="text/css" href="{{ asset('libsBootstrap/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('libsBootstrap/css/bootstrap-theme.min.css') }}">
+    {% block stylesheets %}{% endblock %}
+    <link rel="icon" type="image/x-icon" href="{{ asset('notebook.png') }}"/>
+</head>
+<body>
+{% block body %}{% endblock %}
+{#<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>#}
+{#<script type="text/javascript" src="{{ asset('libsMaterialize/js/materialize.min.js') }}"></script>#}
+<script type="text/javascript" src="{{ asset('libsBootstrap/js/jquery-3.1.0.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('libsBootstrap/js/bootstrap.min.js') }}"></script>
+{% block javascripts %}{% endblock %}
+</body>
+</html>

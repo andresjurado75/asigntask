@@ -1,0 +1,7 @@
+93d4a9,::1,GET,http://localhost/asignTask/web/app_dev.php/safety/register,1487306971,,200
+d10944,::1,GET,http://localhost/asignTask/web/app_dev.php/safety/register,1487307042,c605af,200
+c605af,::1,POST,http://localhost/asignTask/web/app_dev.php/safety/register,1487307042,,500
+6d12ab,::1,POST,http://localhost/asignTask/web/app_dev.php/safety/register,1487307144,,200
+0d87d4,::1,GET,http://localhost/asignTask/web/app_dev.php/safety/register,1487307208,,200
+325d57,::1,POST,http://localhost/asignTask/web/app_dev.php/safety/register,1487307254,,302
+033ee1,::1,GET,http://localhost/asignTask/web/app_dev.php/safety/register,1487307256,,200
